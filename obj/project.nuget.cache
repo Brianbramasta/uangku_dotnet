@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bOfIo7qLmyA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brian\\Desktop\\all progress code\\Brian project\\digital product\\dot_net\\MySimpleApi\\MySimpleApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\Brian\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
